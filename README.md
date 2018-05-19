@@ -1,1 +1,2 @@
 # data_science_introduction
+这个是我读数据科学入门那本书的python实现，可能会有我遇到问题的思考，希望能把这本书读完
